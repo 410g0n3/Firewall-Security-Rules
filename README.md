@@ -99,7 +99,7 @@ El port knocking es ocultación, no autenticación. Para acceso remoto real usa 
 ## Fuentes
 
 - MikroTik: [Securing your router](https://help.mikrotik.com/docs/spaces/ROS/pages/328353/Securing+your+router), [Building Advanced Firewall](https://help.mikrotik.com/docs/spaces/ROS/pages/328513/Building+Advanced+Firewall), [Bruteforce prevention](https://help.mikrotik.com/docs/spaces/ROS/pages/268337176/Bruteforce+prevention), [Port knocking](https://help.mikrotik.com/docs/spaces/ROS/pages/154042369/Port+knocking)
-- [Essential MikroTik WAN Security](https://medium.com/@muhiminulhasan.me/essential-mikrotik-wan-security-a-beginners-hardening-guide-26e987c5c66a), como checklist de servicios
+- [Essential MikroTik WAN Security](https://freedium-mirror.cfd/https://medium.com/@muhiminulhasan.me/essential-mikrotik-wan-security-a-beginners-hardening-guide-26e987c5c66a), como checklist de servicios
 
 ## Licencia
 
